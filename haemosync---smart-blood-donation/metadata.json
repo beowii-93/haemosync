@@ -1,0 +1,5 @@
+{
+  "name": "HaemoSync - Smart Blood Donation",
+  "description": "Smart Blood Donation and Management System connecting donors, hospitals, and blood banks with real-time tracking and health screening.",
+  "requestFramePermissions": ["geolocation"]
+}
